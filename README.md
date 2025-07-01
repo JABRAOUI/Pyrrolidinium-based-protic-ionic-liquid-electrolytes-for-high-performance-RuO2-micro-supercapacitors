@@ -53,7 +53,7 @@ To use the files in this repository:
 If you use this data in your research, please cite the original work:
 
 ```
-[Citation information will be added here]
+Seenath, Jensheer Shamsudeen, Hicham Jabraoui, Timo Stettner, Andrea Balducci, Alain Esteve, David Pech, and Dominic Rochefort. "Pyrrolidinium-based protic ionic liquid electrolytes for high performance RuO2 micro-supercapacitors." Electrochimica Acta (2025).
 ```
 
 ## Contact
